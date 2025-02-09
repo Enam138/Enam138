@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enam138
+- 👋 Hi, I’m Sampson Manyo
 - 👀 I’m interested in ... UI/UX Design, Data Analytics/Science, and Cybersecurity
 - 🌱 I’m currently learning ... Cybersecurity and Data Analytics
 - 💞️ I’m looking to collaborate on ...Cybersecurity certifications and hands on experience projects
