@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sampson Manyo
 - 👀 I’m interested in ... UI/UX Design, Data Analytics/Science, and Cybersecurity
-- 🌱 I’m currently learning ... Cybersecurity and Data Analytics
+- 🌱 I’m currently learning ... Cybersecurity, Cloud Security, and AI Security.
 - 💞️ I’m looking to collaborate on ...Cybersecurity certifications and hands on experience projects
 - 📫 How to reach me ...aristosage41@gmail.com/ +233548599138 on WhatsApp
 - 😄 Pronouns: ...He/Him/His
